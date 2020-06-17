@@ -1,10 +1,10 @@
-1. requirements
- - HTML
- - CSS
- - Vanila JS
+**requirements**
+*HTML
+*CSS
+*Vanila JS
  
-2. duration
- 20. 6. 13. ~ 17.
+**duration**
+*20. 6. 13. ~ 17.
  
-3. Explanation
+**Explanation**
  
