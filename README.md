@@ -4,7 +4,7 @@
  - Vanila JS
  
 2. duration
- 2020. 6. 13. ~ 2020. 6. 17.
+ 20. 6. 13. ~ 17.
  
 3. Explanation
  
